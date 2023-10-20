@@ -15,6 +15,6 @@ To run the program:
 shape1  \
 shape2  \
 ...     \
-shapeN  \
+shapeN  
 
 In which, each line is a shape (For example: 0 0 0 150 150).
