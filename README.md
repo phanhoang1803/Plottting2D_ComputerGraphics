@@ -12,9 +12,9 @@ To run the program:
 - There are 2 ways to run the program: run code or run the .exe file in the Release folder.
 - The files used to read information must be in the same folder as the main function or in the same folder as the .exe file (in the Release folder).
 - The structure of the file is formatted as follows:
-shape1
-shape2
-...
-shapeN
+shape1  \
+shape2  \
+...     \
+shapeN  \
 
 In which, each line is a shape (For example: 0 0 0 150 150).
